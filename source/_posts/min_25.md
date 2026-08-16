@@ -2,8 +2,8 @@
 abbrlink: ''
 categories: []
 date: ''
-math: true
-tags: []
+mathjax: true
+tags: ['Math']
 title: Min_25
 updated: '2026-08-16T14:38:16.396+08:00'
 ---
